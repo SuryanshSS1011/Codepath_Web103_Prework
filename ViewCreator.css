@@ -1,0 +1,69 @@
+.edit-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.edit-button:hover {
+  background-color: #0056b3;
+}
+
+.delete-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.delete-button:hover {
+    background-color: #c82333;
+}
+
+.visit-button {
+  background-color: #17d32d;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.visit-button:hover {
+  background-color: #157016;
+}
+
+.card {
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.card-content {
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.card-title {
+    color: #007bff;
+    font-size: 2rem;
+    margin: 10px 0
+
