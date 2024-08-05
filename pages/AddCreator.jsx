@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { supabase } from "../client";
+import { supabase } from "../components/client";
 import { useNavigate } from "react-router-dom";
 import "./AddCreator.css";
 
