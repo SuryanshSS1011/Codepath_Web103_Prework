@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { supabase } from '../client';
+import { supabase } from '../components/client';
 import Card from '../components/Card';
 import { Link } from 'react-router-dom';
 import './ShowCreators.css';
