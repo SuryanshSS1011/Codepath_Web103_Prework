@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useRoutes } from "react-router-dom";
-import { supabase } from "./client";
+import { supabase } from "../components/client";
 import ShowCreators from "./pages/ShowCreators";
 import ViewCreator from "./pages/ViewCreator";
 import EditCreator from "./pages/EditCreator";
