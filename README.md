@@ -35,7 +35,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://imgur.com/a/oGw1jmc' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Sk7iCVz" data-context="false" ><a href="//imgur.com/a/Sk7iCVz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+👉🏿<img src='https://imgur.com/Sk7iCVz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 Kap (https://getkap.co/) 
