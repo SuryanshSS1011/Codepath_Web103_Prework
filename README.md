@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://s5.ezgif.com/tmp/ezgif-5-3ef000a03b.webp' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://imgur.com/a/oGw1jmc' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 Kap (https://getkap.co/) 
