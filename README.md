@@ -33,9 +33,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented required features:'
 
-👉🏿(https://i.imgur.com/Sk7iCVz.mp4)
+![Imgur Image](http://i.imgur.com/zTONrOD.jpg)
+
+👉🏿 (https://i.imgur.com/Sk7iCVz.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 Kap (https://getkap.co/) 
