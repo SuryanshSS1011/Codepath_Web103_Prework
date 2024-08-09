@@ -2,7 +2,7 @@
 
 Submitted by: **👉🏿 Suryansh Singh Sijwali**
 
-About this web app: **👉🏿 app description here**
+About this web app: **👉🏿 Creatorverse is a React-based web application that allows users to manage a list of their favorite YouTube content creators. The app supports full CRUD (Create, Read, Update, Delete) operations, enabling users to add new creators, view details about each creator, update their information, and delete them if needed. The interface is user-friendly, with creators displayed on visually appealing cards that include their name, a link to their channel, a description of their content, and an image. Navigation between different pages is handled using React Router, ensuring a smooth user experience.**
 
 Time spent: **👉🏿 12** hours
 
@@ -46,7 +46,11 @@ GIF created with ...  👉🏿 Kap (https://getkap.co/)
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+Some of the challenges involved in builidng this app were:
+1) React Version Compatibility: A warning regarding the usage of ReactDOM.render was encountered due to an upgrade to React 18. The issue was resolved by switching to the createRoot method, which is the recommended approach in React 18.
+2) Styling with CSS: Implementing complex styles such as semi-transparent backgrounds, responsive card layouts, and ensuring that all elements were properly aligned and visually consistent required careful consideration of CSS techniques and responsive design principles.
+
+This prework project also served as a hands-on exercise in building a complete, production-ready web application, including handling common frontend challenges, managing state, and integrating with a backend service for persistent data storage.
 
 ## License
 
