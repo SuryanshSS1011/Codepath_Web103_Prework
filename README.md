@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:'
 
-![Imgur Image](http://i.imgur.com/zTONrOD.jpg)
+![Imgur Video](https://i.imgur.com/Sk7iCVz.mp4)
 
 👉🏿 (https://i.imgur.com/Sk7iCVz.mp4)
 
