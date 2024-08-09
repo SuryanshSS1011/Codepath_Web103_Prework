@@ -37,7 +37,7 @@ Here's a walkthrough of implemented required features:'
 
 ![Imgur Video](https://i.imgur.com/Sk7iCVz.mp4)
 
-<video src="https://github.com/user-attachments/assets/d0c3580a-7cbc-4ab1-ad04-42d4e35166bc" width="352" height="720"></video>
+<video src="https://i.imgur.com/Sk7iCVz.mp4" width="352" height="720"></video>
 
 👉🏿 (https://i.imgur.com/Sk7iCVz.mp4)
 
