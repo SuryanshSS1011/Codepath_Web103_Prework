@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<video loop src='https://i.imgur.com/Sk7iCVz.mp4' type="video/mp4"><video/> (https://i.imgur.com/Sk7iCVz.mp4)
+👉🏿(https://i.imgur.com/Sk7iCVz.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 Kap (https://getkap.co/) 
