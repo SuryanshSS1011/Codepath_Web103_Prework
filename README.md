@@ -33,11 +33,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:'
-
-![Imgur Video](https://i.imgur.com/Sk7iCVz.mp4)
-
-<video src="https://i.imgur.com/Sk7iCVz.mp4" width="352" height="720"></video>
+Here's a walkthrough of implemented required features:
 
 👉🏿 (https://i.imgur.com/Sk7iCVz.mp4)
 
